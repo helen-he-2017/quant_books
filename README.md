@@ -3,7 +3,7 @@ A collection of quant books to read. Enjoy!
 
 ## Study plan
 ### Tuckman
-Returns, spreads, and yields 12.17
+Returns, spreads, and yields 12.17 √
 Interest rate risk and hedging 12.20
 Selected securities 12.25
 Two curve discounting 12.29
